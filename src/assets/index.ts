@@ -1,0 +1,1 @@
+export { PicLogo } from "./image";

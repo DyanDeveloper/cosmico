@@ -1,0 +1,1 @@
+export { default as Suscribe } from "./Suscribe";
